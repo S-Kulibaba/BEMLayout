@@ -47,7 +47,6 @@ header {
 }
 
 .header__title {
-    align-items: center;
     font-weight: 600;
     font-size: 24px;
 }
@@ -55,7 +54,6 @@ header {
 .header__menu {
     display: flex;
     margin: 0 auto;
-    align-items: center;
 }
 
 .header__menu-item {
@@ -69,9 +67,7 @@ header {
 }
 
 .header__media {
-    top: 50%;
     display: flex;
-    align-items: center;
 }
 
 .header__media-icon {
